@@ -141,9 +141,6 @@ function Header() {
         </div>
     </section>
  </div>
-
- 
-
 </div>
     )
 }
