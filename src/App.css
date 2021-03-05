@@ -105,7 +105,6 @@
 
 .home {
   display: flex;
-  background: url("Assets/Profile-Pic2.jpg") no-repeat center;
   background-size: cover;
   height: 100vh;
   color: white;
@@ -129,22 +128,30 @@
 }
 
 /*About Section*/
-
-.profilePic {
+.column-left {
   background: url("./Assets/Profile-pic.jpg") no-repeat;
   height: 400px;
   width: 400px;
+  object-fit: center;
+  border-radius: 6px;
+}
+.column-right {
+  padding-left: 100px;
+}
+
+.profilePic {
+  background: url("./Assets/Profile-pic.jpg") no-repeat;
+
   object-fit: cover;
   border-radius: 6px;
 }
-
 .about {
   font-family: "Roboto", sans-serif;
   color: #fff;
 }
 .col-6 {
   justify-content: center;
-  margin-left: 300px;
+  margin-left: 350px;
 }
 
 .about .title {
