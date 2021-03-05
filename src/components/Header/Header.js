@@ -1,5 +1,4 @@
 import React from 'react'
-
 function Header() {
     return (
         /*About, Services, Projects, Contact*/
@@ -11,8 +10,8 @@ function Header() {
         <div className="col-6">
             <h2 className="title">About Me</h2>
             <div className="about-content">
-                <div className="column-left">
-                    <img src="Assets/Profile-pic.jpg" alt="Sergio Aguirre"></img>
+                <div className="column-left profilePic">
+                    <img src={"/src/Assets/Profile-pic.jpg"}  alt="Sergio Aguirre"></img>
                 </div>
                 <div className="column-right">
                     <p>Hello! My name is Sergio Aguirre. With a background in the Audio/Visual field, paired with my current knowledge of web development, my goal is to help you solidify your brand, company, or product, to be ready for the modern world.</p>
@@ -139,6 +138,11 @@ function Header() {
                 </div>
             </div>
         </div>
+    </section>
+    <section className ='container'>
+                <div className='footer expand-lg bg-dark'>
+                <div>Sergio Aguirre 2021</div>
+                </div>
     </section>
  </div>
 </div>

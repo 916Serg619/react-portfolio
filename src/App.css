@@ -22,14 +22,16 @@
 
 /*navbar CSS */
 
-.navbar {
-  background: transparent;
+.navbar-brand {
+  color: #222;
   position: fixed;
   width: 100%;
   padding: 15px 0;
   font-family: "Roboto", sans-serif;
 }
-
+.active {
+  color: white;
+}
 .navbar .max-width {
   display: flex;
   align-items: center;
@@ -128,9 +130,21 @@
 
 /*About Section*/
 
+.profilePic {
+  background: url("./Assets/Profile-pic.jpg") no-repeat;
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
 .about {
   font-family: "Roboto", sans-serif;
   color: #fff;
+}
+.col-6 {
+  justify-content: center;
+  margin-left: 300px;
 }
 
 .about .title {
@@ -147,7 +161,7 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .about .about-content .column-left {
