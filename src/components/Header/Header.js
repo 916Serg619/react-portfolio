@@ -15,7 +15,7 @@ function Header() {
             <div className="main-info">
             <section className="about" id="about">
         <div className="col-6">
-            <h2 className="title">About Me</h2>
+            <h2 className="title" id='about-me'>About Me</h2>
             <div className="about-content">
                 <div className="column-left profilePic">
                     <img src={profilePic} className='profilePic' alt="Sergio Aguirre"></img>
@@ -101,8 +101,9 @@ function Header() {
     <section className="contact" id="contact">
         <div className="max-width">
             <h2 className="title">Contact Me</h2>
+            <div className="card">
             <div className="contact-content">
-                <div className="column left">
+                <div className="contact-details">
                     <div className="text">Get in Touch</div>
                     <p>Feel free to reach me by phone or email. Add me on Github and LinkDn.</p>
                     <div className="icons">
@@ -137,6 +138,7 @@ function Header() {
                                     <div className="info">
                                         <div className="head">LinkDn</div>
                                         <a href="https://www.linkedin.com/in/sergio-aguirre-1a47a462/">LinkDn</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -146,11 +148,11 @@ function Header() {
             </div>
         </div>
     </section>
-    <section className ='container'>
-                <div className='footer expand-lg bg-dark'>
-                <div>Sergio Aguirre 2021</div>
-                </div>
-    </section>
+    <footer className="footer">
+      <div className="container">
+        <span className="text-muted" id='footer-text'>Sergio Aguire 2021.</span>
+      </div>
+    </footer>
  </div>
 </div>
     )
