@@ -1,5 +1,4 @@
 import React from 'react'
-import profilePic from '../Assets/Profile-pic.jpg';
 import codeQuiz from '../Assets/CodeQuiz.png';
 import sdcBeer from '../Assets/SDCBeer.png';
 import plannerPic from '../Assets/PlannerForPlanner.png';

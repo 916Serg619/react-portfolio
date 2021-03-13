@@ -1,11 +1,7 @@
 .App {
   text-align: center;
 }
-.main-info {
-  background: url("../src/components/Assets/Profile-Pic2.jpg") no-repeat;
-  background-size: cover;
-  background-position: center;
-}
+
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600&family=Roboto:wght@100;300;400&display=swap");
 * {
   margin: 0;

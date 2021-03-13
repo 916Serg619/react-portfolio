@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2958c56c.chunk.css",
+    "main.js": "/static/js/main.3fe38d48.chunk.js",
+    "main.js.map": "/static/js/main.3fe38d48.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.88751cdb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.88751cdb.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.680f5f88.chunk.js": "/static/js/2.680f5f88.chunk.js",
+    "static/js/2.680f5f88.chunk.js.map": "/static/js/2.680f5f88.chunk.js.map",
+    "static/js/3.10f278bb.chunk.js": "/static/js/3.10f278bb.chunk.js",
+    "static/js/3.10f278bb.chunk.js.map": "/static/js/3.10f278bb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.2958c56c.chunk.css.map": "/static/css/main.2958c56c.chunk.css.map",
+    "static/js/2.680f5f88.chunk.js.LICENSE.txt": "/static/js/2.680f5f88.chunk.js.LICENSE.txt",
+    "static/media/CodeQuiz.6e4278a4.png": "/static/media/CodeQuiz.6e4278a4.png",
+    "static/media/FreddiJoachim.a7b2602d.png": "/static/media/FreddiJoachim.a7b2602d.png",
+    "static/media/PlannerForPlanner.d71b8758.png": "/static/media/PlannerForPlanner.d71b8758.png",
+    "static/media/App.css": "/static/media/Profile-Pic2.b4aed581.jpg",
+    "static/media/Profile-pic.a15a7dd7.jpg": "/static/media/Profile-pic.a15a7dd7.jpg",
+    "static/media/SDCBeer.4022d57c.png": "/static/media/SDCBeer.4022d57c.png",
+    "static/media/SergioAguirre.Resume.UCSD.3137665c.pdf": "/static/media/SergioAguirre.Resume.UCSD.3137665c.pdf",
+    "static/media/Teeko.471645e1.png": "/static/media/Teeko.471645e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88751cdb.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.680f5f88.chunk.js",
+    "static/css/main.2958c56c.chunk.css",
+    "static/js/main.3fe38d48.chunk.js"
+  ]
+}
