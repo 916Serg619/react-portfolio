@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9c87c7e0.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.6a11c597.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.6a11c597.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.c7014dc7.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.c7014dc7.js.map",
+    "static/css/2.150d169a.chunk.css": "/react-portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.1f0e60ba.chunk.js": "/react-portfolio/static/js/2.1f0e60ba.chunk.js",
+    "static/js/2.1f0e60ba.chunk.js.map": "/react-portfolio/static/js/2.1f0e60ba.chunk.js.map",
+    "static/js/3.1570bdb9.chunk.js": "/react-portfolio/static/js/3.1570bdb9.chunk.js",
+    "static/js/3.1570bdb9.chunk.js.map": "/react-portfolio/static/js/3.1570bdb9.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/react-portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.9c87c7e0.chunk.css.map": "/react-portfolio/static/css/main.9c87c7e0.chunk.css.map",
+    "static/js/2.1f0e60ba.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1f0e60ba.chunk.js.LICENSE.txt",
+    "static/media/CodeQuiz.6e4278a4.png": "/react-portfolio/static/media/CodeQuiz.6e4278a4.png",
+    "static/media/FreddiJoachim.a7b2602d.png": "/react-portfolio/static/media/FreddiJoachim.a7b2602d.png",
+    "static/media/PlannerForPlanner.d71b8758.png": "/react-portfolio/static/media/PlannerForPlanner.d71b8758.png",
+    "static/media/index.css": "/react-portfolio/static/media/Profile-Pic2.b4aed581.jpg",
+    "static/media/Profile-pic.a15a7dd7.jpg": "/react-portfolio/static/media/Profile-pic.a15a7dd7.jpg",
+    "static/media/SDCBeer.4022d57c.png": "/react-portfolio/static/media/SDCBeer.4022d57c.png",
+    "static/media/SergioAguirre.Resume.UCSD.3137665c.pdf": "/react-portfolio/static/media/SergioAguirre.Resume.UCSD.3137665c.pdf",
+    "static/media/Teeko.471645e1.png": "/react-portfolio/static/media/Teeko.471645e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7014dc7.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.1f0e60ba.chunk.js",
+    "static/css/main.9c87c7e0.chunk.css",
+    "static/js/main.6a11c597.chunk.js"
+  ]
+}
