@@ -1,12 +1,13 @@
 import React from 'react'
 import profilePic from '../Assets/Profile-pic.jpg';
 import Resume from '../Assets/SergioAguirre.Resume.UCSD.pdf';
+//import { Navbar } from '../Navbar/index';
 
 function Header() {
     return (
         /*About, Services, Projects, Contact*/
-
-        
+        <div>
+        {/* <Navbar /> */}
         <div className="header-waper">
             <div className="main-info">
             <section className="about" id="about">
@@ -44,6 +45,7 @@ function Header() {
     </section>
     
  </div>
+</div>
 </div>
     )
 }
