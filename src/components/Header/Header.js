@@ -2,6 +2,8 @@ import React from 'react'
 import profilePic from '../Assets/Profile-pic.jpg';
 import Resume from '../Assets/SergioAguirre.Resume.UCSD.pdf';
 //import { Navbar } from '../Navbar/index';
+import '../Header/Header.css';
+import Footer from '../Footer/Footer';
 
 function Header() {
     return (
@@ -19,7 +21,7 @@ function Header() {
                 </div>
                 <div className="column-right">
                     <p>Hello! My name is Sergio Aguirre. With a background in the Audio/Visual field, paired with my current knowledge of web development, my goal is to help you solidify your brand, company, or product, to be ready for the modern world.</p>
-                    <a href={Resume}>Download Resumé</a>
+                    <a href={Resume} className='resume'> Resumé</a>
                 </div>
             </div>
         </div>
@@ -42,11 +44,12 @@ function Header() {
                 </div>
             </div>
         </div>
-    </section>
-    
+    </section>  
+  </div>
  </div>
+ <Footer />
 </div>
-</div>
+
     )
 }
 
